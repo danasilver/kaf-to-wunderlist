@@ -1,0 +1,17 @@
+.export-btn {
+  cursor: pointer;
+}
+
+.export-btn:hover span {
+  text-decoration: underline;
+}
+
+.export-btn img {
+  height: 14px;
+  margin: 0 3px 1px 0;
+}
+
+.export-btn span {
+  font-size: 14px;
+  color: #22252e;
+}
