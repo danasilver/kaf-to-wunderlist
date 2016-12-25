@@ -2,40 +2,40 @@ body {
   overflow: hidden;
   width: 100vw;
   height: 100vh;
-  background: -moz-linear-gradient(45deg, #d86868 0%, #fbab7b 100%);
-  background: -webkit-linear-gradient(45deg, #d86868 0%,#fbab7b 100%);
-  background: linear-gradient(45deg, #d86868 0%,#fbab7b 100%);
+  background: -moz-linear-gradient(45deg, #ff9c9c 0%, #ffd6bd 100%);
+  background: -webkit-linear-gradient(45deg, #ff9c9c 0%, #ffd6bd 100%);
+  background: linear-gradient(45deg, #ff9c9c 0%, #ffd6bd 100%);
 }
 
 .container {
   width: 300px;
-  margin: 0 auto;
+  margin: 100px auto;
   font-family: "Avenir", "Helvetica Neue", sans-serif;
-  color: #fff;
-
+  color: #333;
 }
 
 h1 {
   font-size: 36px;
   font-weight: 300;
   text-align: center;
-  text-shadow: 1px 1px 0px black;
 }
 
 p {
   font-size: 16px;
   font-weight: 300;
   text-align: center;
-  text-shadow: 1px 1px 0px black;
 }
 
 .connected {
   font-size: 24px;
-  color: green;
   text-align: center;
   margin: 40px 0;
 }
 
 .name {
   font-weight: 700;
+}
+
+.hidden {
+  display: none;
 }

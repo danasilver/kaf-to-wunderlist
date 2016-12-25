@@ -16,7 +16,6 @@
       "matches": ["http://www.kingarthurflour.com/recipes/*"],
       "js": [
         "vendor/jquery-3.0.0.js",
-        "vendor/wunderlist.sdk.js",
         "content_script.js"
       ],
       "css": [
@@ -27,6 +26,7 @@
 
   "permissions": [
     "identity",
+    "storage",
     "https://www.wunderlist.com/*",
     "https://a.wunderlist.com/api/*"
   ],
