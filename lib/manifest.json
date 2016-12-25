@@ -16,10 +16,11 @@
       "matches": ["http://www.kingarthurflour.com/recipes/*"],
       "js": [
         "vendor/jquery-3.0.0.js",
+        "vendor/react.js",
+        "vendor/react-dom.js",
+        "wunderlist.js",
+        "storage.js",
         "content_script.js"
-      ],
-      "css": [
-        "content_styles.css"
       ]
     }
   ],
