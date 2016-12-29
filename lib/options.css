@@ -8,7 +8,7 @@ body {
 }
 
 .container {
-  width: 300px;
+  width: 350px;
   margin: 100px auto;
   font-family: "Avenir", "Helvetica Neue", sans-serif;
   color: #333;
@@ -24,4 +24,8 @@ p {
   font-size: 16px;
   font-weight: 300;
   text-align: center;
+}
+
+a {
+  color: #333;
 }
