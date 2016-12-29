@@ -33,6 +33,7 @@
   ],
 
   "web_accessible_resources": [
+    "options.html",
     "img/*.png"
   ],
 
