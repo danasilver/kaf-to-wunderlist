@@ -1,6 +1,12 @@
-### KAF to Wunderlist
+<h3 align="center">
+  <img src="assets/icon.png">
+</h3>
 
-Save your King Arthur Flour ingredient lists to Wunderlist.
+<h3 align="center">KAF to Wunderlist</h3>
+
+<p align="center">
+  Save your King Arthur Flour ingredient lists to Wunderlist.
+</p>
 
 #### Getting Started
 
