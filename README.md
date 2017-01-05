@@ -4,7 +4,7 @@ Save your King Arthur Flour ingredient lists to Wunderlist.
 
 #### Getting Started
 
-Install the extension...
+Install the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/kaf-to-wunderlist/lelgjecfjfedkpbnpamanmnbaknbjmka).
 
 Login to Wunderlist from the options page, and set a Wunderlist folder to save
 to, if you like.
