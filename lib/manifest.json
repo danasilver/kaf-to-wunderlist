@@ -34,7 +34,7 @@
 
   "web_accessible_resources": [
     "options.html",
-    "img/*.png"
+    "img/icon.svg"
   ],
 
   "options_page": "options.html"
