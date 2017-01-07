@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
   "name": "KAF to Wunderlist",
-  "version": "0.0.1",
+  "version": "0.0.2",
 
-  "description": "Export a KAF recipe to Wunderlist.",
+  "description": "Save King Arthur Flour recipes to Wunderlist.",
   "author": "Dana Silver",
 
   "icons": {
